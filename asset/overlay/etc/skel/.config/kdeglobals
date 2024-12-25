@@ -1,6 +1,6 @@
 [General]
 AllowKDEAppsToRememberWindowPositions=false
-ColorScheme=BreezeDark
+ColorScheme=OrchisDark
 XftSubPixel=none
 fixed=Monospace,12,-1,5,50,0,0,0,0,0
 font=Sans Serif,12,-1,5,50,0,0,0,0,0
@@ -9,13 +9,13 @@ smallestReadableFont=Sans Serif,10,-1,5,50,0,0,0,0,0
 toolBarFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=breeze-dark
+Theme=Citrus-red-dark
 
 [KDE]
-LookAndFeelPackage=org.kde.breezedark.desktop
+LookAndFeelPackage=com.github.vinceliuice.Orchis-dark
 ShowDeleteCommand=true
 SingleClick=false
-widgetStyle=Breeze
+widgetStyle=kvantum-dark
 
 [WM]
 activeBackground=49,54,59
